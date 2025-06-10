@@ -1,5 +1,8 @@
 # SX-TOOLS Cracked
 
+this tools was using python 3.10 you can download in here, please make sure u use 3.10
+[download here](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
+
 This repository contains a cracked version of **SX-TOOLS**, a Python-based reconnaissance tool. idk why thou this tools was in the sell
 
 ### 🔓 Status: Cracked
@@ -37,4 +40,5 @@ SX-TOOLS uses **Cloudscraper** to bypass Cloudflare protection and scrape data f
 These are commonly used for finding new domains, leaked defacements, and Certificate Transparency logs.
 
 ---
+
 
